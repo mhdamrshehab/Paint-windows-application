@@ -25,3 +25,10 @@ Welcome to the **Paint Windows Application** project! This C++ application, buil
 
 Contributions to this project are welcome! Whether you're interested in adding new shapes, improving the user interface, or optimizing the mathematical algorithms, feel free to submit a pull request.
 
+## **Team Members**
+
+- Mohamad Amr Shehab
+- Abdulrahman Mohamed Mezar
+- Mahmoud Labib Elsamadony
+- Ahmed Alaa Mohamed AbdElazim
+- Mohamed Ahmed Sayed
