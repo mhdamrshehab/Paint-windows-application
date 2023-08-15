@@ -1,1 +1,1 @@
-# paint-windows-application
+Paint Windows Application: Experience the power of C++ and <windows.h> header in this project that brings mathematical algorithms to life, allowing users to effortlessly create intricate shapes and designs. Whether it's lines, circles, polygons, or more, this interactive application provides a platform to explore and unleash your creativity in the world of digital art. Dive in, experiment, and craft visually stunning compositions with the tools at your fingertips.
