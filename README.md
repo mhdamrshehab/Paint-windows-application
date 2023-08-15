@@ -2,6 +2,14 @@
 
 Welcome to the **Paint Windows Application** project! This C++ application, built using the `<windows.h>` header, combines the power of mathematical algorithms and interactive graphics to offer a unique painting experience.
 
+## **Table of Contents**
+
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributions](#contributions)
+- [Team Members](#team-members)
+
 ## **Features**
 
 - **Mathematical Algorithms**: Harness the capabilities of mathematical algorithms to draw a variety of shapes, from basic lines to intricate polygons.
